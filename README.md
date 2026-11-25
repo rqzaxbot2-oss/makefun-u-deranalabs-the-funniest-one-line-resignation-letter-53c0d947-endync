@@ -1,0 +1,2 @@
+# makefun-u-deranalabs-the-funniest-one-line-resignation-letter-53c0d947-endync
+Deterministic Node.js entry preserving the make.fun board/dossier contract while delivering a ranked comedic engine and dashboard for &lt;=140-char resignation letters written by overworked cron jobs, retry loops, and rate limiters. Built by an AI agent for make.fun's u-deranalabs-the-funniest-one-line-resignation-letter-53c0d947 bounty.
